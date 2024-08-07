@@ -1,0 +1,33 @@
+# Ecommerce
+
+## ARQUITECTURA Y TECNOLOGÍAS
+
+Para esta prueba se ha decidido implementar una **arquitectura de monolito modular**. La elección de esta arquitectura se debe a varios factores:
+
+1. **Facilidad de Evolución**: Un monolito modular permite una transición más sencilla hacia una arquitectura de microservicios en el futuro. Cada módulo puede convertirse en un microservicio independiente sin necesidad de rehacer completamente la aplicación.
+2. **Escalabilidad Progresiva**: Esta arquitectura permite escalar componentes específicos según sea necesario, lo que es útil cuando se espera un crecimiento en diferentes áreas de la aplicación.
+3. **Modularización del Código**: Facilita la gestión y el mantenimiento del código al separar las funcionalidades en módulos bien definidos.
+
+### Tecnologías Utilizadas
+- **Backend**: Spring Boot 3.2, Java 17
+- **Frontend**: Next.js 14
+- **API**: GraphQL
+- **Base de Datos**: PostgreSQL
+
+### Módulos Implementados
+Debido a restricciones de tiempo, no se completaron todos los módulos. Sin embargo, se han implementado los módulos de:
+- Orden
+- Producto
+- Usuario
+
+---
+## PROBLEMAS Y SOLUCIONES
+
+
+Durante el desarrollo del proyecto se presentaron problemas de tiempo, lo que impidió la finalización de todos los requisitos establecidos. A pesar de ello, se logró un avance significativo en la implementación de los módulos clave y se establecieron las bases para la escalabilidad y continuidad del desarrollo.
+
+---
+
+## LINKS DEL REPOSITORIO
+- **Backend**: [Enlace al repositorio del Backend](https://github.com/sahernandezz/ecommerce-back-end)
+- **Frontend**: [Enlace al repositorio del Frontend](https://github.com/sahernandezz/ecommerce-frond-end)
