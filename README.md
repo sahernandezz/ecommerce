@@ -1,5 +1,7 @@
 # Ecommerce
 
+<span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/user-attachments/assets/c681f6ad-66a2-4f3f-ae33-57cb279e5f77)</span>
+
 ## ARQUITECTURA Y TECNOLOGÍAS
 
 Para esta prueba se ha decidido implementar una **arquitectura de monolito modular**. La elección de esta arquitectura se debe a varios factores:
