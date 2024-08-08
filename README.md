@@ -5,6 +5,8 @@
 
 ## ARQUITECTURA Y TECNOLOGÍAS
 
+![Screenshot 2023-06-05 232427](https://github.com/user-attachments/assets/0ea9178a-2010-4f37-8920-f20973093bc7)
+
 Para esta prueba se ha decidido implementar una **arquitectura de monolito modular**. La elección de esta arquitectura se debe a varios factores:
 
 1. **Facilidad de Evolución**: Un monolito modular permite una transición más sencilla hacia una arquitectura de microservicios en el futuro. Cada módulo puede convertirse en un microservicio independiente sin necesidad de rehacer completamente la aplicación.
